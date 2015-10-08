@@ -26,7 +26,7 @@ cd ../..
 
 
 #add ofsoftswitch13
-git clone https://github.com/CPqD/ofsoftswitch13.git
+#git clone https://github.com/CPqD/ofsoftswitch13.git
 cd ofsoftswitch13
 #sudo chmod +x boot.sh soexpand.pl
 sudo ./boot.sh
