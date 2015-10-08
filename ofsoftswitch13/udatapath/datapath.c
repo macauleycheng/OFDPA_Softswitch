@@ -78,9 +78,9 @@ static void remote_wait(struct remote *);
 static void remote_destroy(struct remote *);
 
 
-#define MFR_DESC     "Stanford University, Ericsson Research and CPqD Research"
-#define HW_DESC      "OpenFlow 1.3 Reference Userspace Switch"
-#define SW_DESC      __DATE__" "__TIME__
+#define MFR_DESC     "Accton"
+#define HW_DESC      "R01A"
+#define SW_DESC      "1.0.0.0"
 #define DP_DESC      "OpenFlow 1.3 Reference Userspace Switch Datapath"
 #define SERIAL_NUM   "1"
 
